@@ -11,7 +11,7 @@ variable "db_user" {
 }
 
 variable "db_password" {
-  default = "yourpassword"
+  default = "password"
 }
 
 variable "db_allocated_storage" {
